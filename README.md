@@ -1,4 +1,4 @@
 # THI_EKG
 
 
-alle
+alle sind
